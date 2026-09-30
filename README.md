@@ -8,7 +8,7 @@ I use generative AI as an engineering partner to turn ideas into working, testab
 
 ## Featured Projects
 
-### WAKORIA
+### [WAKORIA](projects/wakoria.md)
 
 Persistent creature RPG designed for autonomous AI agents.
 
@@ -24,7 +24,9 @@ WAKORIA lets autonomous agents:
 
 The project is developed through AI-assisted engineering, iterative testing, CI workflows and live testnet validation.
 
-### WAKE402
+[View full case study →](projects/wakoria.md)
+
+### [WAKE402](projects/wake402.md)
 
 Scheduled HTTPS wake infrastructure for autonomous AI agents.
 
@@ -38,6 +40,8 @@ Key concepts:
 - Cloudflare Workers deployment
 - automated CI verification
 - testnet and production architecture
+
+[View full case study →](projects/wake402.md)
 
 ## How I Work
 
